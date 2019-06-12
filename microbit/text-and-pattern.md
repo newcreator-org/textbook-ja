@@ -2,7 +2,7 @@
 
 ## 今回は文字や模様を表示させるぞ!
 
-![image](./src/text-and-pattern/123133242848.png)
+![image](https://raw.githubusercontent.com/newcreator-org/textbook-ja/master/microbit/src/text-and-pattern/123133242848.png)
 
 ## MakeCode for micro:bit へ行こう!
 
@@ -18,4 +18,4 @@
 
 ## このページにいけたらOKだよ!
 
-![image](./src/text-and-pattern/3242422145352.png)
+![image](https://raw.githubusercontent.com/newcreator-org/textbook-ja/master/microbit/src/text-and-pattern/3242422145352.png)
