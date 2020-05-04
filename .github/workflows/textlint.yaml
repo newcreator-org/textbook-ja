@@ -1,8 +1,8 @@
 name: textlint
 on: [pull_request]
 jobs:
-  release:
-    name: check version, add tag and release
+  textlint:
+    name: run textlint
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -12,5 +12,7 @@ jobs:
         with:
           node-version: 10.x
           registry-url: 'https://registry.npmjs.org'
+      - name: package install
+        run: yarn
       - name: textlint
-        run: npm run textlint
+        run: yarn run textlint
