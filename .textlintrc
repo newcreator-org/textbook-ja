@@ -1,9 +1,16 @@
 {
-  "rules": {
-    "common-misspellings": true,
-    "preset-japanese": true,
-    "no-todo": true,
-    "preset-ja-technical-writing": true,
-    "preset-jtf-style": true
-  }
+    "plugins": {
+        "@textlint/markdown": {
+            "extensions": [
+                ".md"
+            ]
+        }
+    },
+    "rules": {
+        "common-misspellings": true,
+        "preset-japanese": true,
+        "no-todo": true,
+        "preset-ja-technical-writing": true,
+        "preset-jtf-style": true
+    }
 }
