@@ -1,2 +1,4 @@
-# textbook-ja
-newcreator.org で学習可能なテキストを管理するためのレポジトリーです。
+# textbooks
+
+![.github/workflows/textlint.yml](https://github.com/newcreator-org/textbook-ja/workflows/.github/workflows/textlint.yml/badge.svg)
+
