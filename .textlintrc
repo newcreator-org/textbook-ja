@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "common-misspellings": true,
+    "preset-japanese": true,
+    "no-todo": true,
+    "preset-ja-technical-writing": true,
+    "preset-jtf-style": true
+  }
+}
