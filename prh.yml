@@ -1,0 +1,15 @@
+version: 1
+
+rules:
+  - expected: Cookie
+  - expected: Python
+  - expected: Obniz  
+  - expected: jQuery  
+  
+  - expected: デフォルト
+    pattern:  ディフォルト
+  - expected: ハードウェア
+    patterns:
+      - ハードウエアー
+      - ハードウェアー
+      - ハードウエア
