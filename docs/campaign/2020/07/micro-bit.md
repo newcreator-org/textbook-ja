@@ -47,6 +47,14 @@ meta:
 ### micro:bit Python（パイソン）エディタ
 [https://python.microbit.org/v/2.0](https://python.microbit.org/v/2.0)
 
+## micro:bitで使えるエディタ（スマートフォン・タブレット用）
+
+### MakeCode mobile（メイクコード・モバイル）
+[https://microbit.org/get-started/user-guide/mobile/](https://microbit.org/get-started/user-guide/mobile/)
+
+### Swift Playgrounds（スウィフト・プレイグラウンド）
+[https://apps.apple.com/gb/app/swift-playgrounds/id908519492](https://apps.apple.com/gb/app/swift-playgrounds/id908519492)
+
 ## ニュークリエイター・オルグについて
 
 ### 特定非営利活動法人ニュークリエイター・オルグ公式
