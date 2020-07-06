@@ -55,6 +55,23 @@ meta:
 ### Swift Playgrounds（スウィフト・プレイグラウンド）
 [https://apps.apple.com/gb/app/swift-playgrounds/id908519492](https://apps.apple.com/gb/app/swift-playgrounds/id908519492)
 
+## 関連するサイトやWebサービス
+
+### 文部科学省　未来の学びコンソーシアム　教材情報一覧
+小学生を中心に、子ども向けプログラミングの環境や書籍が載っています。
+
+[https://miraino-manabi.jp/teaching](https://miraino-manabi.jp/teaching)
+
+### 文部科学省「未来の教室　Edutechサービスデータベース」
+プログラミングに限らずEduTech関連のサービスが幅広く載っています。
+
+[https://www.learning-innovation.go.jp/db-list/](https://www.learning-innovation.go.jp/db-list/)
+
+### 小学生向けプログラミング教室「LOGY(ロジー)」
+ものづくりとプログラミングをまなべる、オンラインの教室です。
+
+[https://logy.app](https://logy.app)
+
 ## ニュークリエイター・オルグについて
 
 ### 特定非営利活動法人ニュークリエイター・オルグ公式
