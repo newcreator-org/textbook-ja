@@ -15,6 +15,7 @@ module.exports = {
     ],
     // Navbar非表示
     themeConfig: {
+        sidebar: 'auto',
         lastUpdated: '最終更新日',
         search: false,
         nav: [
