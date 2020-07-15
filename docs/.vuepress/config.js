@@ -19,9 +19,8 @@ module.exports = {
         lastUpdated: '最終更新日',
         search: false,
         nav: [
-            { text: 'ホーム', link: '/' },
-            { text: 'GitHub', link: 'https://github.com/newcreator-org' },
-            { text: '公式サイト', link: 'https://newcreator.org' },
+            { text: 'GitHub', link: 'https://github.com/newcreator-org/docs.newcreator.org' },
+            { text: '公式サイト', link: 'https://newcreator.org' }
         ]
     },
     plugins: [
