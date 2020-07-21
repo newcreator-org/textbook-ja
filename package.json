@@ -8,6 +8,7 @@
     "license": "GPL-3.0",
     "scripts": {
         "dev": "vuepress dev docs",
+        "build": "vuepress build docs",
         "textlint": "textlint -f pretty-error 'docs/'",
         "textlint:fix": "textlint --fix 'docs/'"
     },
