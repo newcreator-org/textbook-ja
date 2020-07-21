@@ -9,6 +9,23 @@ module.exports = {
     ],
     // Navbar非表示
     themeConfig: {
-        navbar: false
-    }
+        navbar: false,
+        lastUpdated: 'Last Updated',
+        sidebar: 'auto'
+    },
+    plugins: [
+        '@vuepress/last-updated',
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'UA-159919918-5'
+            }
+        ]
+        [
+        'vuepress-plugin-sitemap', {
+            hostname: 'https://docs.newcreator.org'
+        }
+        ]
+    ]
 }
+
