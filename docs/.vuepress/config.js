@@ -1,4 +1,9 @@
 module.exports = {
+    locales: {
+        '/': {
+            lang: 'ja'
+        }
+    },
     head: [
         ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
         ['meta', { name: "keywords", content: "newCreator.org" }],
@@ -10,7 +15,7 @@ module.exports = {
     // Navbar非表示
     themeConfig: {
         navbar: false,
-        lastUpdated: 'Last Updated',
+        lastUpdated: '最終更新日',
         sidebar: 'auto'
     },
     plugins: [
