@@ -7,8 +7,8 @@
     "author": "newCreator.org <contact@newcreator.org>",
     "license": "GPL-3.0",
     "scripts": {
-        "textlint": "textlint -f pretty-error 'textbooks/'",
-        "textlint:fix": "textlint --fix 'textbooks/'"
+        "textlint": "textlint -f pretty-error 'contents/'",
+        "textlint:fix": "textlint --fix 'contents/'"
     },
     "devDependencies": {
         "textlint": "^11.6.3",
