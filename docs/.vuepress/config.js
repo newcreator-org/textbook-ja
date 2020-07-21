@@ -1,4 +1,5 @@
 module.exports = {
+    title: 'newCreator.org',
     locales: {
         '/': {
             lang: 'ja'
@@ -14,9 +15,13 @@ module.exports = {
     ],
     // Navbar非表示
     themeConfig: {
-        navbar: false,
         lastUpdated: '最終更新日',
-        sidebar: 'auto'
+        search: false,
+        nav: [
+            { text: 'ホーム', link: '/' },
+            { text: 'GitHub', link: 'https://github.com/newcreator-org' },
+            { text: '公式サイト', link: 'https://newcreator.org' },
+        ]
     },
     plugins: [
         '@vuepress/last-updated',
