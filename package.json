@@ -1,9 +1,9 @@
 {
-    "name": "textbook-ja",
+    "name": "docs.newcreator.org",
     "version": "1.0.0",
-    "description": "newCreator.org textbooks repository",
+    "description": "newCreator.org docs repository",
     "main": "index.js",
-    "repository": "git@github.com:newcreator-org/textbook-ja.git",
+    "repository": "git@github.com:newcreator-org/docs.newcreator.org.git",
     "author": "newCreator.org <contact@newcreator.org>",
     "license": "GPL-3.0",
     "scripts": {

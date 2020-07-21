@@ -1,25 +1,35 @@
-# textbooks
+# docs.newcreator.org
 
-![textlint](https://github.com/newcreator-org/textbooks/workflows/textlint/badge.svg)
+![textlint](https://github.com/newcreator-org/docs.newcreator.org/workflows/textlint/badge.svg)
 
 ---
 
 ## run
 
+```
+$ yarn
+```
+
 ### Vuepress dev
 
 ```
-$ npm run dev
+$ yarn dev
+```
+
+### Vuepress build
+
+```
+$ yarn build
 ```
 
 ### textlint
 
 ```
-$ yarn run textlint
+$ yarn textlint
 ```
 
 ### textlint & fix
 
 ```
-$ yarn run textlint:fix
+$ yarn textlint:fix
 ```

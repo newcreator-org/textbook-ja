@@ -1,1 +1,2 @@
-# micro:bit
+# micro:bitとまなぶ、はじめてのプログラミング
+
