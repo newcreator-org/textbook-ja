@@ -6,6 +6,12 @@
 
 ## run
 
+### Vuepress dev
+
+```
+$ npm run dev
+```
+
 ### textlint
 
 ```
