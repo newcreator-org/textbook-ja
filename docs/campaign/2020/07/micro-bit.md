@@ -36,7 +36,18 @@ meta:
 
 [https://makecode.microbit.org/_T77LsoegFc90](https://makecode.microbit.org/_T77LsoegFc90)
 
-## その他リンク
+## micro:bitでつかえるエディタ（PC用）
+
+### MakeCode （メイクコード）
+[https://makecode.microbit.org/](https://makecode.microbit.org/)
+ 
+### Scratch（スクラッチ）
+[https://scratch.mit.edu](https://scratch.mit.edu)
+
+### micro:bit Python（パイソン）エディタ
+[https://python.microbit.org/v/2.0](https://python.microbit.org/v/2.0)
+
+## ニュークリエイター・オルグについて
 
 ### 特定非営利活動法人ニュークリエイター・オルグ公式
 [https://newcreator.org](https://newcreator.org)
