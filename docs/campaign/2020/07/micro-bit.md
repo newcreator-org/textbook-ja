@@ -25,9 +25,15 @@ meta:
 [https://makecode.microbit.org/_0zgT2hL3M9RL](https://makecode.microbit.org/_0zgT2hL3M9RL)
 
 ### リンク6「もようをだそう」
+
+![もようを出そう](/campaign/2020/07/micro-bit/moyou.jpg)
+
 [https://makecode.microbit.org/_Cy34yHWEAL5K](https://makecode.microbit.org/_Cy34yHWEAL5K)
 
 ### リンク7「センサでゆれをはかろう」
+
+![ゆれをはかろう](/campaign/2020/07/micro-bit/yurasu.jpg)
+
 [https://makecode.microbit.org/_T77LsoegFc90](https://makecode.microbit.org/_T77LsoegFc90)
 
 ## その他リンク
