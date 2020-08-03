@@ -30,5 +30,10 @@ meta:
 ### リンク7「センサでゆれをはかろう」
 [https://makecode.microbit.org/_T77LsoegFc90](https://makecode.microbit.org/_T77LsoegFc90)
 
-## その他
-- [特定非営利活動法人ニュークリエイター・オルグ 公式](https://newcreator.org)
+## その他リンク
+
+### 特定非営利活動法人ニュークリエイター・オルグ公式
+[https://newcreator.org](https://newcreator.org)
+
+### お問い合わせメール
+[contact+text@newcreator.org](contact+text@newcreator.org)
